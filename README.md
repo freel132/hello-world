@@ -1,2 +1,2 @@
 # hello-world
-just the other repo
+Just trying to understand how it works.

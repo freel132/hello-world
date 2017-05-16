@@ -1,2 +1,3 @@
 # hello-world
-just the other repo
+checking how it works. 
+Why it not saved in beggining
